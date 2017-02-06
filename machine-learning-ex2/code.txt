@@ -1,0 +1,4 @@
+How to submit
+
+Copy the token below and run the submission script included in the assignment download. When prompted, use your email address stepan.hlushak@gmail.com.
+Kr1FJuImQ8ayop6N

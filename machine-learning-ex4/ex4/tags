@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+checkNNGradients	checkNNGradients.m	/^function checkNNGradients(lambda)$/;"	f
+computeNumericalGradient	computeNumericalGradient.m	/^function numgrad = computeNumericalGradient(J, theta)$/;"	f
+debugInitializeWeights	debugInitializeWeights.m	/^function W = debugInitializeWeights(fan_out, fan_in)$/;"	f
+displayData	displayData.m	/^function [h, display_array] = displayData(X, example_width)$/;"	f
+fmincg	fmincg.m	/^function [X, fX, i] = fmincg(f, X, options, P1, P2, P3, P4, P5)$/;"	f
+nnCostFunction	nnCostFunction.m	/^function [J grad] = nnCostFunction(nn_params, ...$/;"	f
+output	submit.m	/^function out = output(partId, auxstring)$/;"	f
+predict	predict.m	/^function p = predict(Theta1, Theta2, X)$/;"	f
+randInitializeWeights	randInitializeWeights.m	/^function W = randInitializeWeights(L_in, L_out)$/;"	f
+sigmoid	sigmoid.m	/^function g = sigmoid(z)$/;"	f
+sigmoidGradient	sigmoidGradient.m	/^function g = sigmoidGradient(z)$/;"	f
+submit	submit.m	/^function submit()$/;"	f

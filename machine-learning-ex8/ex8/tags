@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+checkCostFunction	checkCostFunction.m	/^function checkCostFunction(lambda)$/;"	f
+cofiCostFunc	cofiCostFunc.m	/^function [J, grad] = cofiCostFunc(params, Y, R, num_users, num_movies, ...$/;"	f
+computeNumericalGradient	computeNumericalGradient.m	/^function numgrad = computeNumericalGradient(J, theta)$/;"	f
+estimateGaussian	estimateGaussian.m	/^function [mu sigma2] = estimateGaussian(X)$/;"	f
+fmincg	fmincg.m	/^function [X, fX, i] = fmincg(f, X, options, P1, P2, P3, P4, P5)$/;"	f
+loadMovieList	loadMovieList.m	/^function movieList = loadMovieList()$/;"	f
+multivariateGaussian	multivariateGaussian.m	/^function p = multivariateGaussian(X, mu, Sigma2)$/;"	f
+normalizeRatings	normalizeRatings.m	/^function [Ynorm, Ymean] = normalizeRatings(Y, R)$/;"	f
+output	submit.m	/^function out = output(partId, auxstring)$/;"	f
+selectThreshold	selectThreshold.m	/^function [bestEpsilon bestF1] = selectThreshold(yval, pval)$/;"	f
+submit	submit.m	/^function submit()$/;"	f
+visualizeFit	visualizeFit.m	/^function visualizeFit(X, mu, sigma2)$/;"	f

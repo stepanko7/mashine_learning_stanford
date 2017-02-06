@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+cons	porterStemmer.m	/^function c = cons(i, b, k0)$/;"	f
+cvc	porterStemmer.m	/^function c1 = cvc(i, b, k0)$/;"	f
+dataset3Params	dataset3Params.m	/^function [C, sigma] = dataset3Params(X, y, Xval, yval)$/;"	f
+doublec	porterStemmer.m	/^function dc = doublec(i, b, k0)$/;"	f
+emailFeatures	emailFeatures.m	/^function x = emailFeatures(word_indices)$/;"	f
+ends	porterStemmer.m	/^function s = ends(str, b, k)$/;"	f
+gaussianKernel	gaussianKernel.m	/^function sim = gaussianKernel(x1, x2, sigma)$/;"	f
+getVocabList	getVocabList.m	/^function vocabList = getVocabList()$/;"	f
+linearKernel	linearKernel.m	/^function sim = linearKernel(x1, x2)$/;"	f
+measure	porterStemmer.m	/^function n = measure(b, k0)$/;"	f
+output	submit.m	/^function out = output(partId, auxstring)$/;"	f
+plotData	plotData.m	/^function plotData(X, y)$/;"	f
+porterStemmer	porterStemmer.m	/^function stem = porterStemmer(inString)$/;"	f
+processEmail	processEmail.m	/^function word_indices = processEmail(email_contents)$/;"	f
+readFile	readFile.m	/^function file_contents = readFile(filename)$/;"	f
+rs	porterStemmer.m	/^function r = rs(str, b, k, k0)$/;"	f
+setto	porterStemmer.m	/^function so = setto(s, b, k)$/;"	f
+step1ab	porterStemmer.m	/^function s1ab = step1ab(b, k, k0)$/;"	f
+step1c	porterStemmer.m	/^function s1c = step1c(b, k, k0)$/;"	f
+step2	porterStemmer.m	/^function s2 = step2(b, k, k0)$/;"	f
+step3	porterStemmer.m	/^function s3 = step3(b, k, k0)$/;"	f
+step4	porterStemmer.m	/^function s4 = step4(b, k, k0)$/;"	f
+step5	porterStemmer.m	/^function s5 = step5(b, k, k0)$/;"	f
+submit	submit.m	/^function submit()$/;"	f
+svmPredict	svmPredict.m	/^function pred = svmPredict(model, X)$/;"	f
+svmTrain	svmTrain.m	/^function [model] = svmTrain(X, Y, C, kernelFunction, ...$/;"	f
+visualizeBoundary	visualizeBoundary.m	/^function visualizeBoundary(X, y, model, varargin)$/;"	f
+visualizeBoundaryLinear	visualizeBoundaryLinear.m	/^function visualizeBoundaryLinear(X, y, model)$/;"	f
+vowelinstem	porterStemmer.m	/^function vis = vowelinstem(b, k0)$/;"	f
